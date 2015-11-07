@@ -1,0 +1,6 @@
+{
+  "name": "Zen Arcade",
+  "description": "A barebones github webhook",
+  "image": "heroku/clojure",
+  "addons": [ "heroku-postgresql" ]
+}
