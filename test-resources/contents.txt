@@ -1,0 +1,6 @@
+checks:
+  - check: commit
+    params:
+      - regex: foo
+  - check: example_unknown
+    some_param: foo

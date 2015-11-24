@@ -1,0 +1,18 @@
+{
+  "name": ".zen-arcadia.yml",
+  "path": ".zen-arcadia.yml",
+  "sha": "fc4f19dee363321070ffdbcaba70c5847ceb4ad8",
+  "size": 104,
+  "url": "https://api.github.com/repos/kylog/puppet/contents/.zen-arcadia.yml?ref=tinkering/zen",
+  "html_url": "https://github.com/kylog/puppet/blob/tinkering/zen/.zen-arcadia.yml",
+  "git_url": "https://api.github.com/repos/kylog/puppet/git/blobs/fc4f19dee363321070ffdbcaba70c5847ceb4ad8",
+  "download_url": "https://raw.githubusercontent.com/kylog/puppet/tinkering/zen/.zen-arcadia.yml",
+  "type": "file",
+  "content": "Y2hlY2tzOgogIC0gY2hlY2s6IGNvbW1pdAogICAgcGFyYW1zOgogICAgICAt\nIHJlZ2V4OiBmb28KICAtIGNoZWNrOiBleGFtcGxlX3Vua25vd24KICAgIHNv\nbWVfcGFyYW06IGZvbwo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/kylog/puppet/contents/.zen-arcadia.yml?ref=tinkering/zen",
+    "git": "https://api.github.com/repos/kylog/puppet/git/blobs/fc4f19dee363321070ffdbcaba70c5847ceb4ad8",
+    "html": "https://github.com/kylog/puppet/blob/tinkering/zen/.zen-arcadia.yml"
+  }
+}

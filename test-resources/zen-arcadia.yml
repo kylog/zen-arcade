@@ -1,0 +1,7 @@
+checks:
+  - check: commit
+    params:
+      - regex: "^(maint).*$"
+  - check: example_unknown
+    params:
+      - foo: bar
